@@ -14,9 +14,9 @@ const NavBar = () => {
         className='logo'>NN</motion.h2>
     </div>
     <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
-      <FaLinkedin />
-      <FaGithub />
-      <FaSquareXTwitter />
+      <a href='https://www.linkedin.com/in/niya-nixon/'><FaLinkedin /></a>
+      <a href='https://github.com/niyanixon'><FaGithub /></a>
+      <a href='https://x.com/NiyaBNixon'><FaSquareXTwitter /></a>
     </div>
   </nav>
 }

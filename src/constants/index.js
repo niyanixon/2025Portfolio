@@ -29,29 +29,29 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A fully functional e-commerce website tailored to target the New York City school system, showcasing products and services for educational institutions.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Love At First Bite",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An application designed to help users discover restaurants tailored to their preferences. By answering three simple questions: price range, food category, and dining style users receive personalized restaurant recommendations based on their chosen city.",
+    technologies: ["EJS", "CSS", "Javascript", "MongoDB"],
   },
   {
-    title: "Portfolio Website",
+    title: "Kinfolx",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A platform enabling users to share reviews of companies excelling in Diversity, Equity, and Inclusion initiatives, fostering transparency and promoting exemplary practices in workplace.",
+    technologies: ["React", "Tailwind", "Javascript", "MongoDB" , "Express"],
   },
   {
     title: "Blogging Platform",
     image: project4,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["EJS", "CSS", "Node.js", "Express", "MongoDB"],
   },
 ];
 

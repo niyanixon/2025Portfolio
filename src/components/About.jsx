@@ -1,5 +1,5 @@
 // import { ABOUT_TEXT } from "../constants"
-import aboutImg from '../assets/IMG_3586.PNG'
+import aboutImg from '../assets/_ (2).jpeg'
 import { HERO_CONTENT } from '../constants'
 import {motion} from 'framer-motion'
 

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Permanent+Marker&family=Potta+One&family=Racing+Sans+One&family=Rakkas&family=Sarina&family=Shrikhand&display=swap');
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Ahsing';
+    src: url(./assets/ahsing-regular.otf);
+}
+
+
+:root{
+    font-family: "Inknut Antiqua", serif;
+}
+.logo{
+    font-size: 35px;
+    letter-spacing: 2px;
+    margin-left: 10px;
+    font-family: "Ahsing";
+}
